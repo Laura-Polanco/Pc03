@@ -5,27 +5,22 @@
       {
         "nombre": "Pikachu",
         "tipo": "Eléctrico",
-        "foto": "images/Pikachu.jpg"
+        "foto": "images/Pika.png"
       },
       {
           "nombre": "Charizard",
           "tipo": "Fuego",
-          "foto": "images/Charizard.jpg"
+          "foto": "images/Charizard.png"
       },
       {
           "nombre": "Bulbasaur",
           "tipo": "Planta",
-          "foto": "images/Venusaur.jpg"
+          "foto": "images/Bulbasaur.png"
       },
       {
           "nombre": "Squirtle",
           "tipo": "Agua",
-          "foto": "images/57001.jpg"
-      },
-      {
-          "nombre": "Greninja",
-          "tipo": "Agua",
-          "foto": "images/57001.jpg"
+          "foto": "images/squirtle.png"
       }
     ] 
   },
@@ -35,28 +30,73 @@
       {
         "nombre": "Blastoise",
         "tipo": "Agua",
-        "foto": "images/57001.png"
+        "foto": "images/blastoise.png"
       },
       {
           "nombre": "Arcanine",
           "tipo": "Fuego",
-          "foto": ".images/57001.png"
+          "foto": "images/arcanine.png"
       },
       {
           "nombre": "Nidoking",
           "tipo": "Tierra",
-          "foto": "images/57001.png"
-      },
-      {
-          "nombre": "Umbreon",
-          "tipo": "Siniestro",
-          "foto": "images/57001.png"
+          "foto": "images/Nidoking.png"
       },
       {
           "nombre": "Scizor",
           "tipo": "Acero",
-          "foto": "images/57001.png"
+          "foto": "images/Scizor.png"
       }
     ] 
-  }
+  },
+  {
+    "entrenador": "Laura",
+    "pokemons": [
+    {
+        "nombre": "Jigglypuff",
+        "tipo": "Hada",
+        "foto": "images/jigglypuff.png"
+    },
+    {
+        "nombre": "Gengar",
+        "tipo": "Fantasma",
+        "foto": "images/Gengar.png"
+    },
+    {
+        "nombre": "Ponyta",
+        "tipo": "Fuego",
+        "foto": "images/Ponyta.png"
+    },
+    {
+        "nombre": "Lucario",
+        "tipo": "Lucha",
+        "foto": "images/Lucario.png"
+    }
+  ] 
+},
+{
+    "entrenador": "Misty",
+    "pokemons": [
+    {
+      "nombre": "Cubone",
+      "tipo": "Tierra",
+      "foto": "images/Cubone.png"
+    },
+    {
+        "nombre": "Lairon",
+        "tipo": "Acero",
+        "foto": "images/Lairon.png"
+    },
+    {
+        "nombre": "Umbreon",
+        "tipo": "Siniestro",
+        "foto": "images/Umbreon.png"
+    },
+    {
+        "nombre": "Psyduck",
+        "tipo": "Agua",
+        "foto": "images/Psyduck.png"
+    }
+  ] 
+}
 ]

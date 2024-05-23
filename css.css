@@ -1,3 +1,10 @@
+.tittle {
+  background-color: #c7991b; 
+  padding: 10px 0; 
+  text-align: center; 
+  margin-top: 0; 
+}
+
 body {
   font-family: Arial, sans-serif;
   text-align: center;
