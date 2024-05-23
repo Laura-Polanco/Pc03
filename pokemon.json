@@ -1,0 +1,62 @@
+[
+  {
+      "entrenador": "Ash Ketchum",
+      "pokemons": [
+      {
+        "nombre": "Pikachu",
+        "tipo": "Eléctrico",
+        "foto": "images/Pikachu.jpg"
+      },
+      {
+          "nombre": "Charizard",
+          "tipo": "Fuego",
+          "foto": "images/Charizard.jpg"
+      },
+      {
+          "nombre": "Bulbasaur",
+          "tipo": "Planta",
+          "foto": "images/Venusaur.jpg"
+      },
+      {
+          "nombre": "Squirtle",
+          "tipo": "Agua",
+          "foto": "images/57001.jpg"
+      },
+      {
+          "nombre": "Greninja",
+          "tipo": "Agua",
+          "foto": "images/57001.jpg"
+      }
+    ] 
+  },
+  {
+      "entrenador": "Gary Oak",
+      "pokemons": [
+      {
+        "nombre": "Blastoise",
+        "tipo": "Agua",
+        "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Arcanine",
+          "tipo": "Fuego",
+          "foto": ".images/57001.png"
+      },
+      {
+          "nombre": "Nidoking",
+          "tipo": "Tierra",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Umbreon",
+          "tipo": "Siniestro",
+          "foto": "images/57001.png"
+      },
+      {
+          "nombre": "Scizor",
+          "tipo": "Acero",
+          "foto": "images/57001.png"
+      }
+    ] 
+  }
+]
